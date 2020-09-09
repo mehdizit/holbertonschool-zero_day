@@ -1,0 +1,1 @@
+emacs -q --no-splash -f tetris
