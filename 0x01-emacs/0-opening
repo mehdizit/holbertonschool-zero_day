@@ -1,3 +1,1 @@
-to open file from within emacs you are to type this command :
-
-emacs file_name
+C-x C-f
